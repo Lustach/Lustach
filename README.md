@@ -1,3 +1,10 @@
+# Hi 👋 My name is Vladislav Lusta
+
+## I'm a Frontend Developer
+
+### Experience is more than 3 years
+
+### My Hard Skills
 
 <img src="https://badges.pufler.dev/visits/Lustach/Lustach?style=flat-square&color=6875f5&logo=github" />
 <img src="https://badges.pufler.dev/visits/Lustach/Lustach" />
