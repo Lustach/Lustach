@@ -37,9 +37,9 @@
 </div>
 
 <div>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind">
+  <!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind">
     <img src="tailwind.svg" width="54" height="54" alt="Tailwind" />
-  </a>
+  </a> -->
   
   <a href="https://element-plus.org/en-US/" target="_blank" rel="noreferrer" title="Element plus">
     <img src="element-plus.svg" width="54" height="54" alt="Element plus" />
