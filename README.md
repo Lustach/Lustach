@@ -13,9 +13,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lustach&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 
-<img src="https://badges.pufler.dev/visits/Lustach/Lustach?style=flat-square&color=6875f5&logo=github" />
-<img src="https://badges.pufler.dev/visits/Lustach/Lustach" />
-
 ### My Socials
 
 <div>
@@ -35,3 +32,6 @@
     <img src="hh.svg" width="48" height="48" alt="hh" />
   </a>
 </div>
+
+<img src="https://badges.pufler.dev/visits/Lustach/Lustach?style=flat-square&color=6875f5&logo=github" />
+<img src="https://badges.pufler.dev/visits/Lustach/Lustach" />
